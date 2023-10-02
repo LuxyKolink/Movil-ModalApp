@@ -10,6 +10,6 @@ Construir una app con 2 vistas que hagan uso de showModalBottomSheet:
 usuario presionó en la vista anterior (ver diapositiva 5).
 
 # Material de ayuda:
-https://api.flutter.dev/flutter/material/showModalBottomSheet.html
-https://api.flutter.dev/flutter/material/Radio-class.html
+- https://api.flutter.dev/flutter/material/showModalBottomSheet.html
+- https://api.flutter.dev/flutter/material/Radio-class.html
 
